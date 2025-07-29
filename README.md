@@ -22,10 +22,6 @@
 | Project | Description | Skills |
 |--------|-------------|--------|
 | [🔐 KeyloggerProject](https://github.com/shusmita-ui/KeyloggerProject) | A Python keylogger for security awareness and research (educational use only) | Python, `pynput`, File handling |
-| [🧠 Text Encryption Tool](https://github.com/yourusername/TextEncryption) | AES, DES, RSA encryption GUI-based text tool | `cryptography`, RSA, GUI (Tkinter) |
-| [🛡️ Phishing Detector](https://github.com/yourusername/PhishingDetector) | Analyzes email headers to detect phishing | Python, Regex, Email Parsing |
-| [📍 GPS Spoofing Tracker](https://github.com/yourusername/GPS-Spoof-Tracker) | Detects fake GPS apps using coordinate behavior | Python, OSINT techniques |
-| [🔧 Cybersecurity Toolkit](https://github.com/yourusername/CyberSecurityToolkit) | All-in-one GUI app: Nmap scan, hash cracker, subdomain finder | Python, Nmap, Hashlib, Tkinter |
 
 ---
 
